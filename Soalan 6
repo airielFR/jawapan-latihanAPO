@@ -1,0 +1,5 @@
+#Soalan 6
+name = input("enter your name : ")
+age_input = input("enter your age : ")
+age = int(age_input)
+print(f"#Hello {name}, you are {age} years old.")
