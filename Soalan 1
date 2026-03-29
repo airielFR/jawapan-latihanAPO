@@ -1,0 +1,4 @@
+#Soalan 1
+print("enter number:")
+number = input()
+print(f"number: {number}")
