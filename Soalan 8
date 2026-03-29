@@ -1,0 +1,5 @@
+#Soalan 8 
+price = int(input("enter the price of an item :"))
+quantity = int(input("enter the quantity of the item :"))
+total =(price*quantity)
+print("This is your total price" , total)
